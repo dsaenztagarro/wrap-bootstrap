@@ -30,3 +30,24 @@ Contribution directions go here.
 
 ## License
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+
+# To-Do
+
+- [ ] Add `wrap_bootstrap.js`
+
+```
+	<!-- ================== BEGIN BASE JS ================== -->
+	<script src="/assets/plugins/jquery/jquery-3.2.1.min.js"></script>
+	<script src="/assets/plugins/jquery-ui/jquery-ui.min.js"></script>
+	<script data-turbolinks-eval=false src="/assets/plugins/bootstrap/4.1.0/js/bootstrap.bundle.min.js"></script>
+	<!--[if lt IE 9]>
+		<script src="/assets/crossbrowserjs/html5shiv.js"></script>
+		<script src="/assets/crossbrowserjs/respond.min.js"></script>
+		<script src="/assets/crossbrowserjs/excanvas.min.js"></script>
+	<![endif]-->
+	<script src="/assets/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+	<script src="/assets/plugins/js-cookie/js.cookie.js"></script>
+	<script src="/assets/js/theme/default.min.js"></script>
+	<!-- ================== END BASE JS ================== -->
+```
