@@ -11,6 +11,7 @@
  * It is generally better to create a new file per style scope.
  *
  *
+ *= require ./wrap_bootstrap/fontawesome-all
  *= require ./wrap_bootstrap/jquery-ui
  *= require ./wrap_bootstrap/bootstrap
  *= require ./wrap_bootstrap/style

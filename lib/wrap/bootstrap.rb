@@ -1,7 +1,7 @@
-require "wrap/bootstrap/engine"
+require 'wrap/bootstrap/engine'
 
 module Wrap
+  # nodoc
   module Bootstrap
-    # Your code goes here...
   end
 end
