@@ -13,4 +13,5 @@
 //= require ./wrap_bootstrap/jquery-min
 //= require ./wrap_bootstrap/jquery-ui
 //= require ./wrap_bootstrap/bootstrap.bundle
+//= require ./wrap_bootstrap/application
 
